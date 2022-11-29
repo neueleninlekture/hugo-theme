@@ -1,0 +1,6 @@
+title: "World Communists Archive"
+baseURL: 'https://communists.world'
+languageCode: 'en-us'
+
+Params:
+  favicon: "/favicon.ico"

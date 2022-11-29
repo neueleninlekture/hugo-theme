@@ -1,0 +1,29 @@
+body {
+	font-family: sans-serif ;
+	background: #110000 ;
+	color: #ccc ;
+}
+
+main {
+	max-width: 800px ;
+	margin: auto ;
+}
+
+img {
+	max-width: 100% ;
+}
+
+header h1 {
+	text-align: center ;
+}
+
+footer {
+	text-align: center ;
+	clear: both ;
+}
+
+.taglist {
+	text-align: center ;
+	clear: both ;
+}
+
